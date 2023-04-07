@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "ambientocclusion": false,
+    "textures": {
+      "layer0": "minecraft:block/torch"
+    }
+  }
